@@ -1,0 +1,58 @@
+{
+    "licores": [
+        {
+            "id": 0,
+            "title": "Vodka Spirytus",
+            "description": "Aunque tiene una presentación bastante sencilla, este tipo de bebida alcohólica es el más fuerte de todos. Su graduación es del 96%; no por nada también se lo emplea en medicina.Sin embargo, precisamente por ser demasiado fuerte, su consumo tiene que ser moderado y responsable, ya que el cuerpo humano no resiste dichos niveles de alcohol",
+            "urlImage": "https://laverdadnoticias.com/__export/1626128838217/sites/laverdad/img/2021/07/12/vodka_spi.jpeg_125517322.jpeg",
+            "tags": [
+                "Vodka Spirytus"
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Everclear 190",
+            "description": "El segundo en la lista, y perteneciente al continente americano, es el Everclear 190: un alcohol de grano neutral que debido a su graduación alcohólica está prohibida en varios estados -por no decir todos- de EE.UU. Este trago viene en dos versiones: la menos fuerte tiene 75,5% de alcohol y la más fuerte, 95%. Y al igual que el Vodka Spirytus, también se lo usa como antiséptico. ",
+            "urlImage": "https://i5.walmartimages.com/asr/c2613ef5-4c7d-4b62-9e7b-7daf5841bfd0_1.8a53db120071b35028cf64ebb0162a86.jpeg",
+            "tags": [
+                "Everclear 190"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Cocoroco",
+            "description": "Otro trago americano está en los primeros puestos, y pertenece a Sudamérica. Se trata del Cocoroco boliviano, un trago artesanal elaborado con caña de azúcar y  con una graduación alcohólica de 93°. Pese a ser altamente fuerte, lo puedes encontrar fácilmente en algunas partes de Bolivia debido a que su comercialización es artesanal. Y por esta misma razón, no debes sorprenderte de cómo te lo dan: en botella, en tarros o incluso en latas.",
+            "urlImage": "https://i.pinimg.com/originals/77/d5/47/77d5477a0fa8fe6552201ae36e4d815d.jpg",
+            "tags": [
+                "Cocoroco"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Poitin",
+            "description": "Su nombre es la abreviatura de la palabra ‘pota’, que en gaélico irlandés significa “alambique”. Esta bebida se la obtiene de la malta y la patata, aunque en los últimos años se le ha añadido azúcar a la mezcla.Su graduación alcohólica es de 93º, y por este motivo se prohibió su producción y comercialización durante muchos siglos. Actualmente, sólo dos destilerías irlandesas tienen el permiso oficial para elaborarla: Knockee Hills y Bunratty Winery.",
+            "urlImage": "https://www.radioacktiva.com/wp-content/uploads/2020/05/11.jpg",
+            "tags": [
+                "Poitin"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Whisky escocés Bruichladdich X4 Perilous",
+            "description": "El escritor escocés Martin Martin ya lo describía en 1700 como un líquido muy peligroso para la vida . Este whisky escocés posee 92% de alcohol por volumen y fue creado por una destilería en las Islas Británicas en su intento por romper el récord de máxima destilación.",
+            "urlImage": "https://static.whiskybase.com/storage/whiskies/1/0/323/250355-big.jpg",
+            "tags": [
+                "Whisky escocés Bruichladdich X4 Perilous"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Absenta Negra Hapsburg Gold Label",
+            "description": "Quizá esta absenta sea una de las pocas (por no decir la única) que explica el porqué fue prohibida en siglos pasados. Con sus 89.90º de alcohol en volumen, es la versión más conocida en el mundo y la de mayor graduación alcohólica. De origen italiano, se lo usa para elaborar cócteles, o si la quieres probar directamente, mezclado con agua.",
+            "urlImage": "https://descerebrados.com/wp-content/uploads/2019/05/Hapsburg-Gold-Label.jpg",
+            "tags": [
+                "Absenta Negra Hapsburg Gold Label"
+            ]
+        }
+    ]
+}
